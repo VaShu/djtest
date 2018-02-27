@@ -1,0 +1,13 @@
+li {
+    list-style-type: square;
+    color: navajowhite;
+}
+
+li a {
+    color: navajowhite;
+}
+
+
+body {
+    background: white url("images/background.gif");
+}
